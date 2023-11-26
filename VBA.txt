@@ -1,0 +1,11 @@
+■開発言語: 
+VBA
+Python
+RPA 
+
+■学習中：
+JavaScript
+HTML
+CSS
+SQL
+

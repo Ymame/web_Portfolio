@@ -1,0 +1,9 @@
+〇ダッシュボードslackt通知
+
+■使用言語: 
+VBA
+VBS
+
+■API:
+Windows
+Slack
